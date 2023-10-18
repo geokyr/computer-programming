@@ -6,7 +6,7 @@ Lab Assignments for the [Computer Programming](https://www.ece.ntua.gr/en/underg
 
 There were a total of 8 lab assignments in this course, each one consisting of a set of exercises that had to be submitted to the course's [grader](http://grader.softlab.ntua.gr/). The grader was a web application that automatically tested the submitted code against a set of test cases and provided feedback on the correctness of the solution, with time and memory constraints.
 
-The aim was to get familiar with computer programming and algorithmic problem solving. The assignments were written in C and C++, some of them with the help of [pzhelp](https://github.com/softlab-ntua/pzhelp), a provided header file defining a set of C macros that are meant to facilitate learning C++. The key goals of each lab assignment are described below.
+The aim was to get familiar with computer programming and algorithmic problem solving. The assignments were written in C and C++, some of them with the help of [pzhelp](https://github.com/softlab-ntua/pzhelp), a provided header file defining a set of C macros that are meant to facilitate learning C/C++. The key goals of each lab assignment are described below.
 
 ## Lab 01
 
