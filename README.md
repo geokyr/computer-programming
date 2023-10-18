@@ -41,7 +41,7 @@ The aim was to get familiar with computer programming and algorithmic problem so
 ## Lab 06
 
 - Optimizations
-- Text formatting
+- Text processing
 - Efficient algorithm design
 
 ## Lab 07
