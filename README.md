@@ -1,4 +1,4 @@
-# ece-ntua-computer-programming
+# computer-programming
 
 Lab Assignments for the [Computer Programming](https://www.ece.ntua.gr/en/undergraduate/courses/3020) course, during the 1st semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
